@@ -10,11 +10,11 @@ Bendera sebagai notifikasi jika permainan sudah selesai
 
 Terdapat 5 daftar pertanyaan 
 
-Jika benar, tambahan Score = 20, salah = score akan berkurang = -20.
+Jika benar, Score = + 20, salah Score = -20.
 
 
 ## FILE PROJECT
 
 File project PictoBlox tersedia dalam bentuk .ZIP
 
-Selamat mencoba!
+Selamat mencoba ~
