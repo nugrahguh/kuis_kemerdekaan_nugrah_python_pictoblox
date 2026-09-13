@@ -8,7 +8,7 @@ Devin sebagai fasilitator untuk memberikan pertanyaan kepada peserta
 
 Bendera sebagai notifikasi jika permainan sudah selesai
 
-Terdapat 5 daftar pertanyaan 
+Terdapat 5 pertanyaan 
 
 Jika benar, Score = + 20, salah Score = -20.
 
