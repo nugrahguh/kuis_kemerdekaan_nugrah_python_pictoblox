@@ -2,15 +2,13 @@
 
 ## INFORMASI PROJECT
 
-Kuis kemerdekaan dengan 2 Karakter : Devin & Bendera
+Kuis Kemerdekaan ini memiliki 2 karakter: Devin dan Bendera.
 
-Devin sebagai fasilitator untuk memberikan pertanyaan kepada peserta
+Devin: Fasilitator yang menyampaikan 5 pertanyaan kuis kepada peserta.
 
-Bendera sebagai notifikasi jika permainan sudah selesai
+Bendera: Indikator notifikasi saat permainan telah selesai.
 
-Terdapat 5 pertanyaan 
-
-Jika benar, Score = + 20, salah Score = -20.
+Sistem Skor: Jawaban benar bernilai +20 dan jawaban salah bernilai -20.
 
 
 ## FILE PROJECT
